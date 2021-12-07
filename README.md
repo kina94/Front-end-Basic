@@ -12,7 +12,8 @@ Avoid bugs and pick carrots within the time limit!
 ### 2. Shopping List Application🛒
 Shopping List Application just with the function to add and delete item
 
-![image](https://user-images.githubusercontent.com/66938939/144974982-f9b2353a-d730-4a0a-af7e-00e7787cbd5b.png)![image](https://user-images.githubusercontent.com/66938939/144975046-d7f56c17-4ded-41f2-8cf9-59bdc0035322.png)
-![image](https://user-images.githubusercontent.com/66938939/144975177-8726d238-15f1-4537-a1ef-29da6df22922.png)![image](https://user-images.githubusercontent.com/66938939/144975354-395652b8-5c3e-4e1d-8eca-90bc2f3e22f5.png)
-***
+<img src="https://user-images.githubusercontent.com/66938939/144974982-f9b2353a-d730-4a0a-af7e-00e7787cbd5b.png" width=50%><img src="https://user-images.githubusercontent.com/66938939/144975046-d7f56c17-4ded-41f2-8cf9-59bdc0035322.png" width=50%>
 
+<img src="https://user-images.githubusercontent.com/66938939/144975177-8726d238-15f1-4537-a1ef-29da6df22922.png" width=50%/><img src="https://user-images.githubusercontent.com/66938939/144975354-395652b8-5c3e-4e1d-8eca-90bc2f3e22f5.png" width=50%/>
+
+***

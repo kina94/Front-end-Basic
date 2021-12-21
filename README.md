@@ -3,7 +3,8 @@ Browser, Web APIs, Js
 
 ***
 ### 1. Carrot Picker Game🥕
-Avoid bugs and pick carrots within the time limit!
+Avoid bugs and pick carrots within the time limit!</br>
+https://kina-carrot-picker-game.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/66938939/144973897-9b07214b-199e-46fe-a283-55e3465ec4e9.png)
 ![image](https://user-images.githubusercontent.com/66938939/144975824-8c44ad7a-dac0-47d3-b881-e84049b108fc.png)

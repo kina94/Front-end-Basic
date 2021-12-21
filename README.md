@@ -1,5 +1,5 @@
 # Front-end-Basic
-Browser, Web APIs, Js with Mini Project
+Browser, Web APIs, Js
 
 ***
 ### 1. Carrot Picker Game🥕
